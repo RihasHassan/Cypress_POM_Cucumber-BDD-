@@ -1,3 +1,9 @@
+
+**********************IMPORTENT NOTE************************
+
+After checkout from repository,In VS code terminal type ' npm install' for installing all dependencies 
+
+**************************************************************
 Steps for execution :
 
 It can be executed in two ways ,
